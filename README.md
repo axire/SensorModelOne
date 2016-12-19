@@ -1,0 +1,2 @@
+# SensorModelOne
+ESP12E + SSD1306 + DS18B20 + MQTT
