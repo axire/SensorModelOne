@@ -1,8 +1,14 @@
 # SensorModelOne
 
-This is a ugly hack and remix of code from all kinds of places. 
+This is a sensor and remote control unit. It can play alerts and display messages. It uses MQTT over WiFi for communication.
+
+It possible to add relays and pretty much anything that is operated by electricity.
+
+A hack and remix of code from all kinds of places. 
+
 
 ## done & todo
+
 
 | Feature       | Status        | Stage |
 | ------------- |:-------------:| -----:|
@@ -12,9 +18,8 @@ This is a ugly hack and remix of code from all kinds of places.
 | WIFI          | done          |     3 |
 | MQTT          | done          |     4 |
 | NTP           | done          |     5 |
-| OTA           | todo          |     4 |
-
-
+| WS2812b LED strip | done      |     6 |
+| OTA           | todo          |  need to fix old toolchain |
 
 ![](https://raw.githubusercontent.com/axire/SensorModelOne/master/IMG_20161220_005229.jpg)
 
